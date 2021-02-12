@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 16px;
+}
+
+.quote-box {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 400px;
+  /* border-radius: 14px; */
+  border-radius: 10px;
+
+}
+
+.quote-text {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.quote-author {
+  font-style: italic;
+  color: #555;
+}
+
+
+
+
+button {
+  background-color: #ff00cc;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  /* border-radius: 5px; */
+  cursor: pointer;
+}
+
+button:hover {
+  /* background-color: black; */
+  background-color: #0056b3;
+}
